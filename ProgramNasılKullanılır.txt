@@ -1,0 +1,4 @@
+İlk olarak kullanıcıgiris.java çalıştırılarak kullanıcı girişi yapılır. Default olarak k.adı:ahmet, şifre:123456'dır.Veri tabanındaki tablodan güncelleyebilirsiniz. 
+İlk olarak textViewlara yiyecek veya içeceklerden kaçar adet satın alındığı yazıp yanındaki checkBoxlar işaretlenir.Bahşiş verilecekse miktari girilip işaretlenir. 
+Toplam butonuna basılarak tutarlara kdv eklenir ve hepsinin toplamı gösterilir. Daha sonra fatura yazdırma işlemi için fatura butonuna tıklanır ve sipariş bütün 
+tutarlarıyla birlikte veri tabanındaki işlemler tablosuna kaydedidilir.
